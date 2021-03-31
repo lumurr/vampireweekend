@@ -1,0 +1,26 @@
+body {background-color: #b5a2c8;}
+.text {
+	text-align: center;
+	color:#1e453e;
+	font-family: sans-serif;
+	font-size: 18pt;
+}
+.consistent-images {
+	height: 30rem;
+	display: block;
+	margin: 0 auto; 
+}
+.footer-image { display: block;
+	margin: 0 auto; }
+
+.title {
+	text-align: center;
+	color: #DAF7A6;
+	font-family: sans-serif;
+}
+.links {
+	text-align: center;
+	color:#1e453e;
+	font-family: sans-serif;
+	font-size: 24pt;
+}
